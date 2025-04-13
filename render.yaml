@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: your-bot-name
+    name: spexiizz
     env: node
     buildCommand: npm install
     startCommand: node index.js
